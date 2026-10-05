@@ -93,6 +93,8 @@ Formulas start with `=`. Sheetly aims at Excel compatibility while being forgivi
 - **Errors** follow spreadsheet conventions: `#DIV/0!`, `#NAME?`, `#VALUE!`, `#N/A`, plus `#CIRC!` for circular references.
 - **Click-to-reference**: while typing a formula, click a cell to insert its reference, drag for a range, click a header for a whole column/row.
 
+<img width="1602" height="884" alt="image" src="https://github.com/user-attachments/assets/5293984b-a7d6-4861-a668-1f7591ecb03b" />
+
 ### Function library
 
 Press **`Shift+F3`** or click **`fx`** to open the function library: search by name or description, browse by category, see the syntax and an example, and insert into the cell. Typing in a cell also shows an autocomplete list.
