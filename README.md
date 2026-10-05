@@ -153,6 +153,8 @@ Press **`Shift+F3`** or click **`fx`** to open the function library: search by n
 
 ---
 
+<img width="1601" height="884" alt="image" src="https://github.com/user-attachments/assets/8567dec2-f1e2-4d5e-bf64-048ae4dcd92a" />
+
 ## Data tools
 
 ### Sorting and filtering
